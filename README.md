@@ -3,7 +3,7 @@
 
 This project explores the analysis of social networks using data from various communities (karate, physicians, tribes) and centrality calculation algorithms. The goal is to analyze interactions within these networks to extract insights about structures and relationships among members.
 <p align="center">
-  <img src="graphe.jpg" alt="Réseaux sociaux" width="400"/>
+  <img src="graphe.jpg" alt="Réseaux sociaux" width="300"/>
 </p>
 
 ## Project Contents
